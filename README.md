@@ -12,10 +12,10 @@ All three datasets are publicly available on GEO and were downloaded directly in
 
 | GEO Accession | Study | Cells (fibroblast subset) | Conditions | Platform |
 |---|---|---:|---|---|
-| **GSE163973** | Deng et al, *Cell Discovery* 2021 — *Single-cell RNA-seq reveals fibroblast heterogeneity and increased mesenchymal fibroblasts in human fibrotic skin diseases* | 12,177 | 3 keloid + 3 normal scar biopsies | 10x Genomics Chromium |
-| **GSE181316** | Direder et al, *Matrix Biology* 2022 — keloid scRNA-seq atlas | 37,713 | 4 keloid + 3 normal scar + 1 healthy skin | 10x Genomics Chromium |
-| **GSE241132** | Liu and Landén 2024 — human wound healing time course | 12,259 | Intact skin / Wound D1 / Wound D7 / Wound D30 (n=3 donors) | 10x Genomics Chromium |
-| **GSE188952** | Onoufriadis et al — bulk RNA-seq (used for sc-vs-bulk concordance check) | (bulk) | 4 keloid + 5 hypertrophic + 3 normotrophic scar | Bulk RNA-seq |
+| **GSE163973** | Deng et al, *Nat Commun* 2021 — *Single-cell RNA-seq reveals fibroblast heterogeneity and increased mesenchymal fibroblasts in human fibrotic skin diseases* | 12,177 | 3 keloid + 3 normal scar biopsies | 10x Genomics Chromium |
+| **GSE181316** | Direder et al, *Matrix Biology* 2022 — Schwann cells contribute to keloid formation. | 37,713 | 4 keloid + 3 normal scar + 1 healthy skin | 10x Genomics Chromium |
+| **GSE241132** | Liu and Landén 2024 — Spatiotemporal Single-Cell Roadmap of Human Skin Wound Healing | 12,259 | Intact skin / Wound D1 / Wound D7 / Wound D30 (n=3 donors) | 10x Genomics Chromium |
+| **GSE188952** | Choi MA et al — bulk RNA-seq, Keloid-specific gene expression profiling for accurate diagnostic and therapeutic applications. | (bulk) | 4 keloid + 5 hypertrophic + 3 normotrophic scar | Bulk RNA-seq |
 
 ### Download
 
