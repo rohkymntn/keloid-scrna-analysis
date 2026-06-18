@@ -1,6 +1,5 @@
 """Comprehensive analysis of SIGnature attribution results.
 
-Generates Nature-level publication figures from full_attributions.npz:
   Fig 1: Workflow schematic + dataset composition
   Fig 2: Multi-metric gene ranking (volcano + composites)
   Fig 3: Cell-state specificity (heatmap + violins + co-attribution)
