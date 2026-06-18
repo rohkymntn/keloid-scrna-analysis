@@ -1,8 +1,4 @@
 """FULL SIGnature attribution run on all pooled fibroblast cells.
-
-Uses the cached SCimilarity model from the previous smoke test.
-Output: data/processed/scRNA/signature_full/full_attributions.npz
-
 Run: modal run scripts/modal_signature_full.py
 """
 import io
