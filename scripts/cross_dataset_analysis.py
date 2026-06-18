@@ -6,8 +6,7 @@ Datasets:
   - GSE181316 (Direder 2022) -- 4 keloid + 3 normal scar + 1 healthy skin (~37k fib)
 
 For each dataset, identify fibroblast subsets and compute DE for all condition
-contrasts. Then compare the top-marker landscape across datasets. No prior
-sensor/output bias -- pure descriptive characterization.
+contrasts. Then compare the top-marker landscape across datasets. 
 """
 from __future__ import annotations
 
