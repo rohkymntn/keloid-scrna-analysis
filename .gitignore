@@ -1,0 +1,80 @@
+# ----- OS / editor noise -----
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+.fleet/
+
+# ----- Python -----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+.env
+
+# ----- IDE / agent config -----
+.claude/
+.agents/
+
+# ----- Raw data (download from GEO — see README) -----
+data/raw/
+
+# ----- Derived AnnData files (regenerable from raw via load scripts) -----
+data/processed/scRNA/*.h5ad
+
+# ----- Dry-lab simulation artifacts (separate project, not scRNA) -----
+src/keloid_model/
+scripts/run_drylab.py
+scripts/md_to_pdf.py
+notebooks/igem_keloid_drylab.ipynb
+notebooks/grant_proposal.md
+notebooks/fibrosis_aims_church_style.md
+notebooks/fibrosis_aims_church_style.pdf
+notebooks/scrna_findings_report.md
+notebooks/cross_dataset_findings.md
+data/processed/collagen_yap_time_courses.csv
+data/processed/expression_log2.csv
+data/processed/expression_provenance.json
+data/processed/fibrosis_scores.csv
+data/processed/marker_zscores.csv
+data/processed/mmp_timp_competition_grid.csv
+data/processed/pca_coordinates.csv
+data/processed/sample_metadata.csv
+data/processed/sensitivity_summary.csv
+data/processed/synnotch_and_gate_grid.csv
+figures/fig1_expression_pca.*
+figures/fig2_marker_heatmap.*
+figures/fig3_fibrosis_marker_score.*
+figures/fig4_synnotch_and_gate.*
+figures/fig5_and_gate_safety.*
+figures/fig6_mmp_timp_phase_plot.*
+figures/fig7_integrated_time_courses.*
+figures/fig8_yap_taz_mechanosensing_curve.*
+figures/fig9_sensitivity_ranking.*
+
+# ----- Smoke-test scripts and outputs -----
+scripts/modal_signature_smoke.py
+data/processed/scRNA/signature_smoke/
+
+# ----- Large per-cell long-form intermediate CSVs (regenerable) -----
+# dorothea_long.csv = ~120 MB (per-cell TF activity); progeny_long.csv = ~55 MB.
+# Both are intermediate; per-condition summaries are kept.
+figures/sc_extended/dorothea_long.csv
+figures/sc_extended/progeny_long.csv
+
+# ----- Large attribution matrix (regenerable on Modal) -----
+data/processed/scRNA/signature_full/full_attributions.npz
+
+# ----- Misc -----
+futuristic.html
+*.log
+modal_logs/

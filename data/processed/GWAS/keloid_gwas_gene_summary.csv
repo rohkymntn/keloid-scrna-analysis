@@ -1,0 +1,45 @@
+gene,min_pval,n_hits,n_studies,ancestries,chr,top_snp,nlogp
+QRSL1P2,2e-79,6,6,"African,East Asian,European,Hispanic/Latin,Japanese",1,rs10863683-C,78.69897000433602
+LINC01705,2e-79,6,6,"African,East Asian,European,Hispanic/Latin,Japanese",1,rs10863683-C,78.69897000433602
+CORO2B,2e-44,1,2,"African,East Asian,European,Hispanic/Latin",15,rs34647667-T,43.69897000433602
+ITGA11,2e-44,1,2,"African,East Asian,European,Hispanic/Latin",15,rs34647667-T,43.69897000433602
+NEDD4,1e-27,4,6,"African,East Asian,European,Hispanic/Latin,Japanese",15,rs11632096-A,27.0
+PHLDA3,1.9999999999999998e-25,2,4,"African,East Asian,European,Japanese",1,rs192314256-C,24.69897000433602
+AS,3e-18,2,2,"African,East Asian,European,Hispanic/Latin",11,rs76024540-C,17.522878745280337
+SLC67A1,3e-18,2,2,"African,East Asian,European,Hispanic/Latin",11,rs76024540-C,17.522878745280337
+RPS11P1,5e-15,3,2,"African,East Asian,European,Hispanic/Latin",20,rs140716753-A,14.301029995663981
+LINC02871,5e-15,3,2,"African,East Asian,European,Hispanic/Latin",20,rs140716753-A,14.301029995663981
+LINC03138,2e-14,2,1,"African,East Asian,European",21,rs13051336-A,13.698970004336019
+PRR23A,2e-13,1,1,Japanese,3,rs1511412-A,12.698970004336019
+FOXL2NB,2e-13,1,1,Japanese,3,rs1511412-A,12.698970004336019
+BPESC1,4e-12,2,3,"African,East Asian,European,Japanese",3,rs646315-T,11.397940008672037
+MRPS22,4e-12,2,3,"African,East Asian,European,Japanese",3,rs646315-T,11.397940008672037
+CSF2RB,7e-12,1,1,"African,European,Hispanic/Latin",22,rs536701773-C,11.154901959985743
+TAFA2,9e-12,1,1,"African,European,Hispanic/Latin",12,rs527569697-A,11.045757490560675
+FRMD4A,9e-12,1,1,"African,European,Hispanic/Latin",10,rs549023067-G,11.045757490560675
+AS1,9e-12,1,1,"African,European,Hispanic/Latin",10,rs549023067-G,11.045757490560675
+LSP1,1e-11,1,1,"African,East Asian,European",11,rs686722-T,11.0
+NFATC2,2e-11,1,1,"African,East Asian,European",20,rs6091310-T,10.698970004336019
+RPSAP1,2e-11,1,1,"African,East Asian,European",20,rs6091310-T,10.698970004336019
+GLIS3,1e-10,1,1,"African,East Asian,European",9,rs6476838-T,10.0
+ASIP,4e-10,1,1,"African,East Asian,European",20,rs1205312-A,9.397940008672037
+TAB2,6e-10,1,1,"African,East Asian,European",6,rs6906384-A,9.221848749616356
+NRG1,6e-10,1,1,"African,East Asian,European",8,rs2919386-A,9.221848749616356
+GPC1,6e-10,2,2,"African,East Asian,European",2,rs12989123-T,9.221848749616356
+U3,6e-10,2,2,"African,East Asian,European",2,rs12989123-T,9.221848749616356
+SETBP1,2e-09,1,1,"African,East Asian,European",18,rs77685836-C,8.698970004336019
+DT,2e-09,1,1,"African,East Asian,European",18,rs77685836-C,8.698970004336019
+LINC01478,2e-09,1,1,"African,East Asian,European",18,rs77685836-C,8.698970004336019
+CASC18,5e-09,1,1,"African,East Asian,European",12,rs7297246-A,8.301029995663981
+ZBTB40,6e-09,1,1,"African,East Asian,European",1,rs12568930-T,8.221848749616356
+PPIAP34,6e-09,1,1,"African,East Asian,European",1,rs12568930-T,8.221848749616356
+LINC01752,6e-09,1,1,"African,East Asian,European",20,rs2423510-A,8.221848749616356
+BABAM2,8e-09,1,1,"African,East Asian,European",2,rs6726716-A,8.096910013008056
+SFRP4,8e-09,1,1,"African,East Asian,European",7,rs2242026-T,8.096910013008056
+NME8,8e-09,1,1,"African,East Asian,European",7,rs2242026-T,8.096910013008056
+MEF2C,2e-08,1,1,"African,East Asian,European",5,rs244755-T,7.698970004336019
+TRIB1AL,2e-08,1,1,"African,East Asian,European",8,rs921721-A,7.698970004336019
+PRTG,7e-08,1,1,European,15,rs60890210-A,7.154901959985743
+LINC02763,2e-07,1,1,Han Taiwanese,11,rs117166906-?,6.698970004336019
+HYAL2,5e-07,1,1,Japanese,3,rs11130248-?,6.301029995663981
+HYAL1,5e-07,1,1,Japanese,3,rs11130248-?,6.301029995663981

@@ -1,0 +1,359 @@
+dataset,condition,sample,hallmark,score
+Deng,Keloid,KL1,Apoptosis,0.38274783577612265
+Deng,Keloid,KL1,Complement,0.2173248253270445
+Deng,Keloid,KL1,EMT,0.6036767106553611
+Deng,Keloid,KL1,Glycolysis,0.11630867243446948
+Deng,Keloid,KL1,Hedgehog,0.04453103711034994
+Deng,Keloid,KL1,Hypoxia,0.2825918856131384
+Deng,Keloid,KL1,Inflammatory,0.09356166605823338
+Deng,Keloid,KL1,Myogenesis (MFB),0.19297913263828564
+Deng,Keloid,KL1,OxPhos,0.25977270242395467
+Deng,Keloid,KL1,TGF-β,0.2937999016316002
+Deng,Keloid,KL1,Wnt-βcat,0.005065259206290789
+Deng,Keloid,KL2,Apoptosis,0.3822774410495848
+Deng,Keloid,KL2,Complement,0.21202790882194225
+Deng,Keloid,KL2,EMT,0.6913253784135066
+Deng,Keloid,KL2,Glycolysis,0.13204003702103342
+Deng,Keloid,KL2,Hedgehog,0.0633872045084789
+Deng,Keloid,KL2,Hypoxia,0.3001233365677363
+Deng,Keloid,KL2,Inflammatory,0.10806360504476806
+Deng,Keloid,KL2,Myogenesis (MFB),0.2026034505105992
+Deng,Keloid,KL2,OxPhos,0.24635170383465402
+Deng,Keloid,KL2,TGF-β,0.3203769309085747
+Deng,Keloid,KL2,Wnt-βcat,0.030156237721709552
+Deng,Keloid,KL3,Apoptosis,0.33843590805755996
+Deng,Keloid,KL3,Complement,0.2052760670264938
+Deng,Keloid,KL3,EMT,0.708600101129228
+Deng,Keloid,KL3,Glycolysis,0.14057990298448783
+Deng,Keloid,KL3,Hedgehog,0.0508319780699746
+Deng,Keloid,KL3,Hypoxia,0.2797212286985076
+Deng,Keloid,KL3,Inflammatory,0.08391739393853163
+Deng,Keloid,KL3,Myogenesis (MFB),0.18589881230856875
+Deng,Keloid,KL3,OxPhos,0.3050481791048271
+Deng,Keloid,KL3,TGF-β,0.2831788316283454
+Deng,Keloid,KL3,Wnt-βcat,0.0054971215173763716
+Deng,Normal scar,NS1,Apoptosis,0.4014477344794404
+Deng,Normal scar,NS1,Complement,0.25076200020953937
+Deng,Normal scar,NS1,EMT,0.5856038115852761
+Deng,Normal scar,NS1,Glycolysis,0.12584911337497404
+Deng,Normal scar,NS1,Hedgehog,0.03283534701868813
+Deng,Normal scar,NS1,Hypoxia,0.3168527939153297
+Deng,Normal scar,NS1,Inflammatory,0.11982429048000103
+Deng,Normal scar,NS1,Myogenesis (MFB),0.19402875260670965
+Deng,Normal scar,NS1,OxPhos,0.260528623970121
+Deng,Normal scar,NS1,TGF-β,0.2879983496303099
+Deng,Normal scar,NS1,Wnt-βcat,0.006645187200150874
+Deng,Normal scar,NS2,Apoptosis,0.4222059107266189
+Deng,Normal scar,NS2,Complement,0.21985475047061478
+Deng,Normal scar,NS2,EMT,0.4951770085430089
+Deng,Normal scar,NS2,Glycolysis,0.10938157313556789
+Deng,Normal scar,NS2,Hedgehog,0.027206053794203107
+Deng,Normal scar,NS2,Hypoxia,0.3177058067377463
+Deng,Normal scar,NS2,Inflammatory,0.11262991547448759
+Deng,Normal scar,NS2,Myogenesis (MFB),0.19011640771069618
+Deng,Normal scar,NS2,OxPhos,0.24544585248874554
+Deng,Normal scar,NS2,TGF-β,0.33754449108803786
+Deng,Normal scar,NS2,Wnt-βcat,0.017462942373754734
+Deng,Normal scar,NS3,Apoptosis,0.3694117110799806
+Deng,Normal scar,NS3,Complement,0.19972230731114585
+Deng,Normal scar,NS3,EMT,0.4160753483990064
+Deng,Normal scar,NS3,Glycolysis,0.09060822431641166
+Deng,Normal scar,NS3,Hedgehog,0.01580756915328055
+Deng,Normal scar,NS3,Hypoxia,0.26392740271109133
+Deng,Normal scar,NS3,Inflammatory,0.08391009508915175
+Deng,Normal scar,NS3,Myogenesis (MFB),0.16711056298096
+Deng,Normal scar,NS3,OxPhos,0.2360513156160401
+Deng,Normal scar,NS3,TGF-β,0.30613751042061593
+Deng,Normal scar,NS3,Wnt-βcat,0.009789175209862869
+Direder,Healthy skin,skin_7,Apoptosis,0.2854225479784127
+Direder,Healthy skin,skin_7,Complement,0.1254593347600969
+Direder,Healthy skin,skin_7,EMT,0.35488551570153776
+Direder,Healthy skin,skin_7,Endothelial,-0.35617577695829417
+Direder,Healthy skin,skin_7,Fibroblast,1.725013234154258
+Direder,Healthy skin,skin_7,Glycolysis,0.08297727056479678
+Direder,Healthy skin,skin_7,Hedgehog,-0.023932627345704546
+Direder,Healthy skin,skin_7,Hypoxia,0.19883428981896903
+Direder,Healthy skin,skin_7,Inflammatory,0.04629570352655603
+Direder,Healthy skin,skin_7,Keratinocyte,-0.39349126986296895
+Direder,Healthy skin,skin_7,Mast,-0.020725593224378506
+Direder,Healthy skin,skin_7,Melanocyte,-0.028499531516804847
+Direder,Healthy skin,skin_7,Myeloid,-0.08674895591546442
+Direder,Healthy skin,skin_7,Myogenesis (MFB),0.1446355144079385
+Direder,Healthy skin,skin_7,OxPhos,0.16868617465280564
+Direder,Healthy skin,skin_7,Pericyte_SMC,-0.33565119392438875
+Direder,Healthy skin,skin_7,Schwann,-0.01795052311730676
+Direder,Healthy skin,skin_7,TGF-β,0.0795856608579881
+Direder,Healthy skin,skin_7,T_cell,-0.04461235516739211
+Direder,Healthy skin,skin_7,Wnt-βcat,-0.045112035548418104
+Direder,Keloid,keloid_1,Apoptosis,0.3248641459820375
+Direder,Keloid,keloid_1,Complement,0.16921468652755653
+Direder,Keloid,keloid_1,EMT,0.6457578398937659
+Direder,Keloid,keloid_1,Endothelial,-0.4644270772610808
+Direder,Keloid,keloid_1,Fibroblast,2.774363858813231
+Direder,Keloid,keloid_1,Glycolysis,0.12950238451216514
+Direder,Keloid,keloid_1,Hedgehog,0.004145403540831931
+Direder,Keloid,keloid_1,Hypoxia,0.2809092332800695
+Direder,Keloid,keloid_1,Inflammatory,0.055180086012090734
+Direder,Keloid,keloid_1,Keratinocyte,-0.7315506693392322
+Direder,Keloid,keloid_1,Mast,-0.023246847816599976
+Direder,Keloid,keloid_1,Melanocyte,-0.04226683473368626
+Direder,Keloid,keloid_1,Myeloid,-0.06828745812274532
+Direder,Keloid,keloid_1,Myogenesis (MFB),0.2170660527138921
+Direder,Keloid,keloid_1,OxPhos,0.22130135468190557
+Direder,Keloid,keloid_1,Pericyte_SMC,-0.22945658078826994
+Direder,Keloid,keloid_1,Schwann,-0.003950449013165173
+Direder,Keloid,keloid_1,TGF-β,0.1434468960755189
+Direder,Keloid,keloid_1,T_cell,-0.04835305844274349
+Direder,Keloid,keloid_1,Wnt-βcat,-0.02991166827215696
+Direder,Keloid,keloid_2,Apoptosis,0.20005242311810204
+Direder,Keloid,keloid_2,Complement,0.10138499510338712
+Direder,Keloid,keloid_2,EMT,0.5728251667047796
+Direder,Keloid,keloid_2,Endothelial,-0.21868314674845746
+Direder,Keloid,keloid_2,Fibroblast,3.1190574255394186
+Direder,Keloid,keloid_2,Glycolysis,0.08362601385058596
+Direder,Keloid,keloid_2,Hedgehog,0.009778128722071634
+Direder,Keloid,keloid_2,Hypoxia,0.17224394675317567
+Direder,Keloid,keloid_2,Inflammatory,0.015839796594741915
+Direder,Keloid,keloid_2,Keratinocyte,-0.5024074468964652
+Direder,Keloid,keloid_2,Mast,-0.013452930768893461
+Direder,Keloid,keloid_2,Melanocyte,-0.025691880892126224
+Direder,Keloid,keloid_2,Myeloid,-0.06411375877800066
+Direder,Keloid,keloid_2,Myogenesis (MFB),0.16506734092824596
+Direder,Keloid,keloid_2,OxPhos,0.19061438987681015
+Direder,Keloid,keloid_2,Pericyte_SMC,-0.06185131456174525
+Direder,Keloid,keloid_2,Schwann,-0.025905641158681172
+Direder,Keloid,keloid_2,TGF-β,0.08808745382880079
+Direder,Keloid,keloid_2,T_cell,-0.028670291073355118
+Direder,Keloid,keloid_2,Wnt-βcat,-0.022661023832931598
+Direder,Keloid,keloid_3L,Apoptosis,0.23604415061857897
+Direder,Keloid,keloid_3L,Complement,0.12201435316954415
+Direder,Keloid,keloid_3L,EMT,0.5488317753268527
+Direder,Keloid,keloid_3L,Endothelial,-0.33846711250809575
+Direder,Keloid,keloid_3L,Fibroblast,2.7624111137775773
+Direder,Keloid,keloid_3L,Glycolysis,0.0891593312228786
+Direder,Keloid,keloid_3L,Hedgehog,0.0007379183414733607
+Direder,Keloid,keloid_3L,Hypoxia,0.20211590965659904
+Direder,Keloid,keloid_3L,Inflammatory,0.024978511553229884
+Direder,Keloid,keloid_3L,Keratinocyte,-0.5683101541377666
+Direder,Keloid,keloid_3L,Mast,-0.022099650142654807
+Direder,Keloid,keloid_3L,Melanocyte,-0.02914623209777043
+Direder,Keloid,keloid_3L,Myeloid,-0.06427018887050934
+Direder,Keloid,keloid_3L,Myogenesis (MFB),0.17432818986149198
+Direder,Keloid,keloid_3L,OxPhos,0.2152396267632525
+Direder,Keloid,keloid_3L,Pericyte_SMC,-0.11450639810190529
+Direder,Keloid,keloid_3L,Schwann,-0.024019198179202336
+Direder,Keloid,keloid_3L,TGF-β,0.08143806200630518
+Direder,Keloid,keloid_3L,T_cell,-0.03397314397054615
+Direder,Keloid,keloid_3L,Wnt-βcat,-0.05062985607797691
+Direder,Keloid,keloid_3R,Apoptosis,0.2201522455348975
+Direder,Keloid,keloid_3R,Complement,0.1103971144346339
+Direder,Keloid,keloid_3R,EMT,0.5712816527538688
+Direder,Keloid,keloid_3R,Endothelial,-0.3101657184386133
+Direder,Keloid,keloid_3R,Fibroblast,2.983388832303095
+Direder,Keloid,keloid_3R,Glycolysis,0.09729691092129165
+Direder,Keloid,keloid_3R,Hedgehog,0.0065988327083490094
+Direder,Keloid,keloid_3R,Hypoxia,0.18504328515878318
+Direder,Keloid,keloid_3R,Inflammatory,0.022308341668178522
+Direder,Keloid,keloid_3R,Keratinocyte,-0.5209157350854432
+Direder,Keloid,keloid_3R,Mast,-0.018409265488583692
+Direder,Keloid,keloid_3R,Melanocyte,-0.025267530946168338
+Direder,Keloid,keloid_3R,Myeloid,-0.053006235010702236
+Direder,Keloid,keloid_3R,Myogenesis (MFB),0.16769872988848772
+Direder,Keloid,keloid_3R,OxPhos,0.18609020288166891
+Direder,Keloid,keloid_3R,Pericyte_SMC,-0.038370260558693886
+Direder,Keloid,keloid_3R,Schwann,-0.021888589136969946
+Direder,Keloid,keloid_3R,TGF-β,0.07577732632392052
+Direder,Keloid,keloid_3R,T_cell,-0.02821709957929154
+Direder,Keloid,keloid_3R,Wnt-βcat,-0.04605188476211455
+Direder,Normal scar,scar_1,Apoptosis,0.3886053757022032
+Direder,Normal scar,scar_1,Complement,0.17881361917975047
+Direder,Normal scar,scar_1,EMT,0.4403174932178481
+Direder,Normal scar,scar_1,Endothelial,-0.3865615387018719
+Direder,Normal scar,scar_1,Fibroblast,2.066855912179001
+Direder,Normal scar,scar_1,Glycolysis,0.12323446107077432
+Direder,Normal scar,scar_1,Hedgehog,0.006216265667979054
+Direder,Normal scar,scar_1,Hypoxia,0.2989235392537911
+Direder,Normal scar,scar_1,Inflammatory,0.09840595848924308
+Direder,Normal scar,scar_1,Keratinocyte,-0.35443135836892875
+Direder,Normal scar,scar_1,Mast,0.09167883263594401
+Direder,Normal scar,scar_1,Melanocyte,-0.04484895422931545
+Direder,Normal scar,scar_1,Myeloid,-0.10043221500047968
+Direder,Normal scar,scar_1,Myogenesis (MFB),0.1991763211600626
+Direder,Normal scar,scar_1,OxPhos,0.12442516647993787
+Direder,Normal scar,scar_1,Pericyte_SMC,-0.3746327621918805
+Direder,Normal scar,scar_1,Schwann,-0.0060940461423114635
+Direder,Normal scar,scar_1,TGF-β,0.1820866830985912
+Direder,Normal scar,scar_1,T_cell,-0.06495055505231064
+Direder,Normal scar,scar_1,Wnt-βcat,-0.025190580840986406
+Direder,Normal scar,scar_2,Apoptosis,0.26295699290776636
+Direder,Normal scar,scar_2,Complement,0.10426626110027042
+Direder,Normal scar,scar_2,EMT,0.3110093551586801
+Direder,Normal scar,scar_2,Endothelial,-0.30022981570048096
+Direder,Normal scar,scar_2,Fibroblast,2.09612784358518
+Direder,Normal scar,scar_2,Glycolysis,0.07276231044873578
+Direder,Normal scar,scar_2,Hedgehog,-0.015483432280481584
+Direder,Normal scar,scar_2,Hypoxia,0.2177755840631881
+Direder,Normal scar,scar_2,Inflammatory,0.06222400652470214
+Direder,Normal scar,scar_2,Keratinocyte,-0.4955350831198853
+Direder,Normal scar,scar_2,Mast,-0.005976243660244686
+Direder,Normal scar,scar_2,Melanocyte,-0.003509970477840227
+Direder,Normal scar,scar_2,Myeloid,-0.05932489001213856
+Direder,Normal scar,scar_2,Myogenesis (MFB),0.12198848287808242
+Direder,Normal scar,scar_2,OxPhos,0.05158484707248624
+Direder,Normal scar,scar_2,Pericyte_SMC,-0.3014438694923098
+Direder,Normal scar,scar_2,Schwann,-0.0013116132235580545
+Direder,Normal scar,scar_2,TGF-β,0.10344930799736339
+Direder,Normal scar,scar_2,T_cell,-0.020366903343864123
+Direder,Normal scar,scar_2,Wnt-βcat,0.004670391218832498
+Direder,Normal scar,scar_3,Apoptosis,0.25724942306091686
+Direder,Normal scar,scar_3,Complement,0.11031344296997592
+Direder,Normal scar,scar_3,EMT,0.4380050291554573
+Direder,Normal scar,scar_3,Endothelial,-0.2979933629194424
+Direder,Normal scar,scar_3,Fibroblast,2.6610816149420042
+Direder,Normal scar,scar_3,Glycolysis,0.07161742771362695
+Direder,Normal scar,scar_3,Hedgehog,-0.005569002432409408
+Direder,Normal scar,scar_3,Hypoxia,0.19825313764341063
+Direder,Normal scar,scar_3,Inflammatory,0.036108339111067395
+Direder,Normal scar,scar_3,Keratinocyte,-0.6124434731454302
+Direder,Normal scar,scar_3,Mast,-0.01639767196686755
+Direder,Normal scar,scar_3,Melanocyte,-0.02387796131628386
+Direder,Normal scar,scar_3,Myeloid,-0.06914759531906145
+Direder,Normal scar,scar_3,Myogenesis (MFB),0.16094803627418403
+Direder,Normal scar,scar_3,OxPhos,0.11807638482661663
+Direder,Normal scar,scar_3,Pericyte_SMC,-0.29929609867384643
+Direder,Normal scar,scar_3,Schwann,0.014261950262690398
+Direder,Normal scar,scar_3,TGF-β,0.1407485525476682
+Direder,Normal scar,scar_3,T_cell,-0.029674003782068532
+Direder,Normal scar,scar_3,Wnt-βcat,-0.014236372480600152
+Wound,Skin,PWH26D0,Apoptosis,0.4952876788906376
+Wound,Skin,PWH26D0,Complement,0.2545495202857413
+Wound,Skin,PWH26D0,EMT,0.5729634478282556
+Wound,Skin,PWH26D0,Glycolysis,0.1665785545297564
+Wound,Skin,PWH26D0,Hedgehog,0.041512315083260316
+Wound,Skin,PWH26D0,Hypoxia,0.39251344847815844
+Wound,Skin,PWH26D0,Inflammatory,0.16811056849416
+Wound,Skin,PWH26D0,Myogenesis (MFB),0.23923438308158676
+Wound,Skin,PWH26D0,OxPhos,0.15711028208340103
+Wound,Skin,PWH26D0,TGF-β,0.3676872018894236
+Wound,Skin,PWH26D0,Wnt-βcat,0.046219930718336896
+Wound,Skin,PWH27D0,Apoptosis,0.47956544102452675
+Wound,Skin,PWH27D0,Complement,0.25220161863838025
+Wound,Skin,PWH27D0,EMT,0.6193356373979821
+Wound,Skin,PWH27D0,Glycolysis,0.17953020496407554
+Wound,Skin,PWH27D0,Hedgehog,0.05286140774399309
+Wound,Skin,PWH27D0,Hypoxia,0.3995793992143702
+Wound,Skin,PWH27D0,Inflammatory,0.15723821972058613
+Wound,Skin,PWH27D0,Myogenesis (MFB),0.24780622407014385
+Wound,Skin,PWH27D0,OxPhos,0.170905034335345
+Wound,Skin,PWH27D0,TGF-β,0.3711174424685074
+Wound,Skin,PWH27D0,Wnt-βcat,0.03785800377163431
+Wound,Skin,PWH28D0,Apoptosis,0.45564984280976206
+Wound,Skin,PWH28D0,Complement,0.24670822324874833
+Wound,Skin,PWH28D0,EMT,0.5717465758792978
+Wound,Skin,PWH28D0,Glycolysis,0.1669601634273508
+Wound,Skin,PWH28D0,Hedgehog,0.044372216023811695
+Wound,Skin,PWH28D0,Hypoxia,0.37174146348282594
+Wound,Skin,PWH28D0,Inflammatory,0.15170845561941493
+Wound,Skin,PWH28D0,Myogenesis (MFB),0.21604210256457554
+Wound,Skin,PWH28D0,OxPhos,0.17383726941012437
+Wound,Skin,PWH28D0,TGF-β,0.32678626612815953
+Wound,Skin,PWH28D0,Wnt-βcat,0.04806118116033615
+Wound,Wound1,PWH26D1,Apoptosis,0.4191166403000944
+Wound,Wound1,PWH26D1,Complement,0.2429436730961807
+Wound,Wound1,PWH26D1,EMT,0.5278960316558813
+Wound,Wound1,PWH26D1,Glycolysis,0.21989910474122581
+Wound,Wound1,PWH26D1,Hedgehog,0.030973051802243776
+Wound,Wound1,PWH26D1,Hypoxia,0.3495827480029348
+Wound,Wound1,PWH26D1,Inflammatory,0.15918242549832853
+Wound,Wound1,PWH26D1,Myogenesis (MFB),0.18238403654550916
+Wound,Wound1,PWH26D1,OxPhos,0.3163127521638925
+Wound,Wound1,PWH26D1,TGF-β,0.3053451787670524
+Wound,Wound1,PWH26D1,Wnt-βcat,0.014876729828105019
+Wound,Wound1,PWH27D1,Apoptosis,0.4206326570206799
+Wound,Wound1,PWH27D1,Complement,0.2629801052478978
+Wound,Wound1,PWH27D1,EMT,0.5692713725016985
+Wound,Wound1,PWH27D1,Glycolysis,0.21212537990099223
+Wound,Wound1,PWH27D1,Hedgehog,0.036179271850949844
+Wound,Wound1,PWH27D1,Hypoxia,0.35337318119738576
+Wound,Wound1,PWH27D1,Inflammatory,0.17225351271531603
+Wound,Wound1,PWH27D1,Myogenesis (MFB),0.17600855876943405
+Wound,Wound1,PWH27D1,OxPhos,0.31473432499455856
+Wound,Wound1,PWH27D1,TGF-β,0.30162015953672555
+Wound,Wound1,PWH27D1,Wnt-βcat,0.010662709236232241
+Wound,Wound1,PWH28D1,Apoptosis,0.4198295065397483
+Wound,Wound1,PWH28D1,Complement,0.26250607300751266
+Wound,Wound1,PWH28D1,EMT,0.5702287404462356
+Wound,Wound1,PWH28D1,Glycolysis,0.2135934962651762
+Wound,Wound1,PWH28D1,Hedgehog,0.05275645258644427
+Wound,Wound1,PWH28D1,Hypoxia,0.3529535461544752
+Wound,Wound1,PWH28D1,Inflammatory,0.16353260906672074
+Wound,Wound1,PWH28D1,Myogenesis (MFB),0.1861672181515185
+Wound,Wound1,PWH28D1,OxPhos,0.30323036857240965
+Wound,Wound1,PWH28D1,TGF-β,0.2817228070484208
+Wound,Wound1,PWH28D1,Wnt-βcat,0.016739614018851177
+Wound,Wound30,PWH26D30,Apoptosis,0.3627539786407587
+Wound,Wound30,PWH26D30,Complement,0.22067509688999748
+Wound,Wound30,PWH26D30,EMT,0.7461100402951687
+Wound,Wound30,PWH26D30,Glycolysis,0.2022202911101708
+Wound,Wound30,PWH26D30,Hedgehog,0.0699010890435838
+Wound,Wound30,PWH26D30,Hypoxia,0.30283430856817933
+Wound,Wound30,PWH26D30,Inflammatory,0.09229902171680208
+Wound,Wound30,PWH26D30,Myogenesis (MFB),0.2103792938598375
+Wound,Wound30,PWH26D30,OxPhos,0.304816570996268
+Wound,Wound30,PWH26D30,TGF-β,0.2353102677164471
+Wound,Wound30,PWH26D30,Wnt-βcat,0.009668589453267137
+Wound,Wound30,PWH27D30,Apoptosis,0.33872371014386843
+Wound,Wound30,PWH27D30,Complement,0.19882008470536364
+Wound,Wound30,PWH27D30,EMT,0.8208611938015681
+Wound,Wound30,PWH27D30,Glycolysis,0.21469390999967564
+Wound,Wound30,PWH27D30,Hedgehog,0.07068073208415418
+Wound,Wound30,PWH27D30,Hypoxia,0.3107052667706792
+Wound,Wound30,PWH27D30,Inflammatory,0.07546266031588769
+Wound,Wound30,PWH27D30,Myogenesis (MFB),0.2102111132757046
+Wound,Wound30,PWH27D30,OxPhos,0.31122720275608073
+Wound,Wound30,PWH27D30,TGF-β,0.23307555895942883
+Wound,Wound30,PWH27D30,Wnt-βcat,-0.012320970462718673
+Wound,Wound30,PWH28D30,Apoptosis,0.3220779524528456
+Wound,Wound30,PWH28D30,Complement,0.19613892661043186
+Wound,Wound30,PWH28D30,EMT,0.7732008316214962
+Wound,Wound30,PWH28D30,Glycolysis,0.20759300511304551
+Wound,Wound30,PWH28D30,Hedgehog,0.07619530829748089
+Wound,Wound30,PWH28D30,Hypoxia,0.28730783989638986
+Wound,Wound30,PWH28D30,Inflammatory,0.0732323108171978
+Wound,Wound30,PWH28D30,Myogenesis (MFB),0.2087006200821169
+Wound,Wound30,PWH28D30,OxPhos,0.31812367667212993
+Wound,Wound30,PWH28D30,TGF-β,0.20989269267901223
+Wound,Wound30,PWH28D30,Wnt-βcat,0.0006328812402193158
+Wound,Wound7,PWH26D7,Apoptosis,0.3804160715240633
+Wound,Wound7,PWH26D7,Complement,0.2204719433312998
+Wound,Wound7,PWH26D7,EMT,0.6902551766178496
+Wound,Wound7,PWH26D7,Glycolysis,0.246335809919385
+Wound,Wound7,PWH26D7,Hedgehog,0.06488694164029937
+Wound,Wound7,PWH26D7,Hypoxia,0.3675674226124248
+Wound,Wound7,PWH26D7,Inflammatory,0.12883644061046395
+Wound,Wound7,PWH26D7,Myogenesis (MFB),0.20226254223874374
+Wound,Wound7,PWH26D7,OxPhos,0.34929990492263335
+Wound,Wound7,PWH26D7,TGF-β,0.2624452100859924
+Wound,Wound7,PWH26D7,Wnt-βcat,-0.0004796564237744622
+Wound,Wound7,PWH27D7,Apoptosis,0.3820051271368518
+Wound,Wound7,PWH27D7,Complement,0.2271573999926383
+Wound,Wound7,PWH27D7,EMT,0.6988543263865775
+Wound,Wound7,PWH27D7,Glycolysis,0.24881393588884565
+Wound,Wound7,PWH27D7,Hedgehog,0.07299600322996164
+Wound,Wound7,PWH27D7,Hypoxia,0.37756845887716395
+Wound,Wound7,PWH27D7,Inflammatory,0.1524914671501246
+Wound,Wound7,PWH27D7,Myogenesis (MFB),0.18945426383295244
+Wound,Wound7,PWH27D7,OxPhos,0.3532263330622177
+Wound,Wound7,PWH27D7,TGF-β,0.2572394644988028
+Wound,Wound7,PWH27D7,Wnt-βcat,-0.012862962127536967
+Wound,Wound7,PWH28D7,Apoptosis,0.41233358446944574
+Wound,Wound7,PWH28D7,Complement,0.24502386154311082
+Wound,Wound7,PWH28D7,EMT,0.6765587421184057
+Wound,Wound7,PWH28D7,Glycolysis,0.2536141259728398
+Wound,Wound7,PWH28D7,Hedgehog,0.0745193576722071
+Wound,Wound7,PWH28D7,Hypoxia,0.4012782860194622
+Wound,Wound7,PWH28D7,Inflammatory,0.15277496603929325
+Wound,Wound7,PWH28D7,Myogenesis (MFB),0.19119033087534756
+Wound,Wound7,PWH28D7,OxPhos,0.3482466438618719
+Wound,Wound7,PWH28D7,TGF-β,0.2787590546816191
+Wound,Wound7,PWH28D7,Wnt-βcat,0.00027708039394403215
