@@ -1,5 +1,4 @@
-"""Generate publication-quality figures for the Deng 2021 keloid scRNA analysis.
-
+"""
 Outputs to figures/scrna/:
   fig_s1_umap.png/.svg                  -- UMAP by cluster + condition + MFB call
   fig_s2_marker_dotplot.png/.svg        -- top markers x cluster dotplot
