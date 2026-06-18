@@ -182,25 +182,6 @@ Foundation models: sc-signature, scimilarity (run via Modal cloud A10G)
 
 ---
 
-## Citation
-
-If you use this analysis pipeline, please cite the underlying datasets:
-
-- Deng C-C, Hu Y-F, Zhu D-H, et al. *Nat Commun* 2021; 12:3709.
-- Direder M, Wielscher M, Weiss S, et al. *Front Immunol* 2022; 13:940645.
-- Liu Y, Landén NX, et al. GSE241132.
-- Onoufriadis A, et al. GSE188952.
-
-And the methods used:
-
-- Gold MJ et al. SIGnature. *Nat Biotechnology* 2026.
-- Heimberg G et al. SCimilarity. *Nat Methods* 2024.
-- Wolf FA et al. PAGA. *Genome Biol* 2019.
-- Badia-i-Mompel P et al. decoupler-py. *Bioinformatics* 2022.
-- Türei D et al. LIANA. *Nat Cell Biol* 2024.
-
----
-
 ## License
 
 MIT
