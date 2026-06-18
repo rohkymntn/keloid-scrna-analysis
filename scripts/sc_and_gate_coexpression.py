@@ -1,8 +1,5 @@
 """AND-gate per-cell co-expression: how often do POSTN and ADAM12 fire
 together at the per-cell level in keloid mesenchymal fibroblasts?
-
-This is the empirical hit-rate of the team's SynNotch AND gate on the
-disease cell. The answer matters for the iGEM poster.
 """
 from __future__ import annotations
 
