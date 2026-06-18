@@ -19,7 +19,7 @@ All three datasets are publicly available on GEO and were downloaded directly in
 
 ### Download
 
-Raw matrices are not committed to this repository (size). To reproduce the analysis end-to-end:
+To reproduce the analysis end-to-end:
 
 ```bash
 mkdir -p data/raw
@@ -67,7 +67,7 @@ Total raw download: approximately 3.3 GB.
 │   ├── sc_paga_trajectory.py         # integrated UMAP + PAGA trajectory
 │   ├── sc_liana_cellcell.py          # LIANA cell-cell communication
 │   ├── signature_full_analysis.py    # SIGnature attribution composite scoring + figures
-│   └── modal_signature_full.py       # Modal cloud-GPU SIGnature attribution computation
+│   └── modal_signature_full.py      
 │
 ├── data/
 │   ├── raw/                  # not committed — download from GEO (see above)
@@ -144,15 +144,7 @@ python scripts/analyze_gwas.py
 
 ### 4. Foundation-model attribution scoring (SIGnature)
 
-The SIGnature analysis uses the SCimilarity foundation model (Heimberg et al, *Nature* 2025) interpreted via the SIGnature framework (Gold et al, *Nat Biotechnology* 2026). Compute is run on Modal cloud (A10G GPU); the SCimilarity model (~30 GB) is cached to a Modal Volume on first run.
-
-```bash
-# Run full attribution computation on Modal cloud
-modal run scripts/modal_signature_full.py
-
-# Local downstream analysis and figure generation
-python scripts/signature_full_analysis.py
-```
+The SIGnature analysis uses the SCimilarity foundation model (Heimberg et al, *Nature* 2025) interpreted via the SIGnature framework (Gold et al, *Nat Biotechnology* 2026). Compute is run on A10G GPU.
 
 ---
 
@@ -178,7 +170,7 @@ Core: scanpy, anndata, numpy, pandas, scipy, scikit-learn, matplotlib, seaborn
 
 Extended analyses: bbknn (batch correction), decoupler-py (PROGENy + CollecTRI), liana (cell-cell communication), gseapy (Hallmark signatures), statannotations (statistical annotation)
 
-Foundation models: sc-signature, scimilarity (run via Modal cloud A10G)
+Foundation models: sc-signature, scimilarity 
 
 ---
 
