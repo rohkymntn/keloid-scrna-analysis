@@ -1,5 +1,4 @@
-"""Cross-dataset figure pack — descriptive, no sensor bias.
-
+"""
 Outputs to figures/cross/:
   fig_c1_umap_triptych.png         -- UMAPs of all three datasets
   fig_c2_wound_timecourse.png      -- fibroblast subset proportions over wound time
