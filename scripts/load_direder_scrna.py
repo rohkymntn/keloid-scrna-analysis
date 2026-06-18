@@ -1,7 +1,6 @@
 """Load GSE181316 (Direder 2022) — keloid + normal scar + healthy skin.
 
 8 samples: 4 keloid + 3 normal scar + 1 healthy skin.
-No author metadata provided; we do our own QC + cluster + annotate.
 """
 from __future__ import annotations
 
