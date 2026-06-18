@@ -144,7 +144,7 @@ python scripts/analyze_gwas.py
 
 ### 4. Foundation-model attribution scoring (SIGnature)
 
-The SIGnature analysis uses the SCimilarity foundation model (Heimberg et al, *Nat Methods* 2024) interpreted via the SIGnature framework (Gold et al, *Nat Biotechnology* 2026). Compute is run on Modal cloud (A10G GPU); the SCimilarity model (~30 GB) is cached to a Modal Volume on first run.
+The SIGnature analysis uses the SCimilarity foundation model (Heimberg et al, *Nature* 2025) interpreted via the SIGnature framework (Gold et al, *Nat Biotechnology* 2026). Compute is run on Modal cloud (A10G GPU); the SCimilarity model (~30 GB) is cached to a Modal Volume on first run.
 
 ```bash
 # Run full attribution computation on Modal cloud
